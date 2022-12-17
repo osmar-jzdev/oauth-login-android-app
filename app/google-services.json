@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "459082659642",
+    "project_id": "loginoauth2osmarandroidexample",
+    "storage_bucket": "loginoauth2osmarandroidexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459082659642:android:d1ffbc9a0a1a9e8aa5c203",
+        "android_client_info": {
+          "package_name": "dgtic.unam.oauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459082659642-nl0klc8mo1ub4ajppo65vpa909kd5btq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dgtic.unam.oauth",
+            "certificate_hash": "45bb53a3946a662e2d5e6c4ec1c2d80634763c5f"
+          }
+        },
+        {
+          "client_id": "459082659642-3te87ok116k80k8393aqmr4o62euqu9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPpsLnP4w85zyL7uOjP5ho7vLoO9kT3dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459082659642-3te87ok116k80k8393aqmr4o62euqu9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
